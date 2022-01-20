@@ -1,4 +1,4 @@
-# Extended GCD
+# Extended GCD - cryptohack
 
 <br>
 <br>
